@@ -1,0 +1,1 @@
+seconds = pygame.transform.flip(seconds,True,False)
